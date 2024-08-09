@@ -1,2 +1,2 @@
-# Example
-An example greeter plugin
+# 302 Party
+The official 302 Party plugin! 
